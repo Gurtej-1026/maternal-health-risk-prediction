@@ -1,4 +1,4 @@
-# Maternal Health Risk Prediction - PRML project
+# Maternal Health Risk Prediction - PRML course project
 
 ## Overview
 This project predicts maternal health risk levels - low, mid, and high - from a small set of clinical measurements. The goal is not just to build a classifier, but to understand which signals matter, compare several models fairly, and see how far we can push performance on a structured healthcare dataset.
